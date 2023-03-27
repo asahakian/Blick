@@ -1,0 +1,1631 @@
+@media screen and (max-width: 281px) {
+    .container {
+        width: 100%;
+        height: 800px;
+        background-position: center;
+    }
+
+    .for-logo {
+        width: 100%;
+        height: 100px;
+        padding: 20px 0px 0px 35px;
+    }
+
+    .logo {
+        width: 40%;
+        background-image: url("./images/logo-for-responsive.svg");
+        background-size: 130px 50px;
+    }
+
+    .first-section {
+        height: 700px;
+        display: block;
+    }
+
+    .texts-block {
+        width: 100%;
+        height: 400px;
+        padding: 10px;
+    }
+
+    #h1txt {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    #h1span {
+        font-size: 40px;
+    }
+
+    #text2 {
+        font-size: 15px;
+    }
+
+    .download {
+        width: 60%;
+    }
+
+    .image-block {
+        width: 100%;
+        height: 253px;
+    }
+
+    .second-section {
+        height: 2100px;
+    }
+
+    .second-section-first-block {
+        width: 100%;
+        height: 650px;
+        padding: 10px;
+        padding-top: 50px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .second-section-image {
+        width: 95%;
+        height: 200px;
+    }
+
+    .second-section-text-block {
+        width: 90%;
+        height: 250px;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    #firsttxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondtxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondsectiontext2 {
+        font-size: 13px;
+    }
+
+    .secimg {
+        margin-top: 100px;
+    }
+
+    .second-section-second-block {
+        height: 800px;
+    }
+
+    .third-section {
+        height: 1550px;
+    }
+
+    .status-block {
+        padding: 0;
+    }
+
+    .status {
+        width: 100%;
+    }
+
+    #what-do-they-say {
+        font-size: 30px;
+        line-height: 10px;
+        font-weight: 600;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    .status-block {
+        width: 100%;
+        height: 1300px;
+        display: block;
+    }
+
+    .status {
+        height: 550px;
+        width: 100%;
+        display: block;
+    }
+
+    .some-status {
+        width: 100%;
+        height: 430px;
+        padding: 0;
+    }
+
+    .second-status {
+        height: 550px;
+        margin-top: 150px;
+    }
+
+    .fourth-section {
+        display: none;
+    }
+
+    .users {
+        display: none;
+    }
+
+    .fourth-section-responsive {
+        display: block;
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(22, 22, 22);
+    }
+
+    .users-responsive {
+        display: block;
+        width: 80%;
+        height: 900px;
+        margin: auto;
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .userBlock {
+        width: 100%;
+    }
+
+    .number {
+        font-size: 50px;
+    }
+
+    .txt {
+        font-size: 20px
+    }
+
+}
+
+@media (min-width: 281px) and (max-width: 361px) {
+    .container {
+        width: 100%;
+        height: 1040px;
+        background-position: center;
+    }
+
+    .for-logo {
+        width: 100%;
+        height: 100px;
+        padding: 20px 0px 0px 35px;
+    }
+
+    .logo {
+        width: 30%;
+        background-image: url("./images/logo-for-responsive.svg");
+        background-size: 130px 50px;
+    }
+
+    .first-section {
+        height: 940px;
+        display: block;
+    }
+
+    .texts-block {
+        width: 100%;
+        height: 450px;
+        padding: 10px;
+    }
+
+    #h1txt {
+        font-size: 60px;
+        line-height: 80px;
+    }
+
+    #h1span {
+        font-size: 60px;
+    }
+
+    #text2 {
+        font-size: 15px;
+    }
+
+    .download {
+        width: 50%;
+    }
+
+    .image-block {
+        width: 100%;
+        height: 400px;
+    }
+
+    .second-section {
+        height: 2100px;
+    }
+
+    .second-section-first-block {
+        width: 100%;
+        height: 650px;
+        padding: 10px;
+        padding-top: 50px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .second-section-image {
+        width: 95%;
+        height: 250px;
+    }
+
+    .second-section-text-block {
+        width: 90%;
+        height: 250px;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    #firsttxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondtxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondsectiontext2  {
+        font-size: 13px;
+    }
+
+    .secimg {
+        margin-top: 20px;
+    }
+
+    .second-section-second-block {
+        height: 750px;
+    }
+
+    .third-section {
+        height: 1600px;
+    }
+
+    .part1txt {
+        height: 150px;
+        line-height: 50px;
+    }
+
+    #reviews {
+        font-size: 23px;
+    }
+
+    #what-do-they-say {
+        font-size: 35px;
+        font-weight: 600;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    .status-block {
+        width: 100%;
+        height: 1300px;
+        display: block;
+    }
+
+    .status {
+        width: 100%;
+        height: 570px;
+        display: block;
+    }
+
+    .some-status {
+        width: 100%;
+        height: 430px;
+        padding: 0;
+    }
+
+    #easy-to-use {
+        font-size: 20px;
+    }
+
+    #statustxt {
+        font-size: 18px;
+    }
+
+    .second-status {
+        height: 550px;
+        margin-top: 150px;
+    }
+
+    .fourth-section {
+        display: none;
+    }
+
+    .users {
+        display: none;
+    }
+
+    .fourth-section-responsive {
+        display: block;
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(22, 22, 22);
+    }
+
+    .users-responsive {
+        display: block;
+        width: 80%;
+        height: 900px;
+        margin: auto;
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .userBlock {
+        width: 100%;
+    }
+}
+
+@media (min-width: 361px) and (max-width: 376px) {
+    .container {
+        width: 100%;
+        height: 1040px;
+        background-position: center;
+    }
+
+    .for-logo {
+        width: 100%;
+        height: 100px;
+        padding: 20px 0px 0px 35px;
+    }
+
+    .logo {
+        width: 30%;
+        background-image: url("./images/logo-for-responsive.svg");
+        background-size: 130px 50px;
+    }
+
+    .first-section {
+        height: 940px;
+        display: block;
+    }
+
+    .texts-block {
+        width: 100%;
+        height: 500px;
+        padding: 10px;
+    }
+
+    #h1txt {
+        font-size: 70px;
+        line-height: 80px;
+    }
+
+    #h1span {
+        font-size: 70px;
+    }
+
+    #text2 {
+        font-size: 15px;
+    }
+
+    .download {
+        width: 50%;
+    }
+
+    .image-block {
+        width: 100%;
+        height: 400px;
+    }
+
+    .second-section {
+        height: 2100px;
+    }
+
+    .second-section-first-block {
+        width: 100%;
+        height: 650px;
+        padding: 10px;
+        padding-top: 50px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .second-section-image {
+        width: 95%;
+        height: 250px;
+    }
+
+    .second-section-text-block {
+        width: 90%;
+        height: 250px;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    #firsttxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondtxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondsectiontext2  {
+        font-size: 13px;
+    }
+
+    .secimg {
+        margin-top: 20px;
+    }
+
+    .second-section-second-block {
+        height: 750px;
+    }
+
+    .second-section-third-block {
+        margin-top: 50px;
+    }
+
+    .third-section {
+        height: 1500px;
+    }
+
+    .part1txt {
+        height: 150px;
+        line-height: 50px;
+    }
+
+    #reviews {
+        font-size: 25px;
+    }
+
+    #what-do-they-say {
+        font-size: 35px;
+        font-weight: 600;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    .status-block {
+        width: 100%;
+        height: 1300px;
+        display: block;
+    }
+
+    .status {
+        height: 550px;
+        width: 100%;
+        display: block;
+    }
+
+    .some-status {
+        width: 100%;
+        height: 430px;
+        padding: 0;
+    }
+
+    .second-status {
+        height: 500px;
+        margin-top: 150px;
+    }
+
+    .fourth-section {
+        display: none;
+    }
+
+    .users {
+        display: none;
+
+    }
+
+    .fourth-section-responsive {
+        display: block;
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(22, 22, 22);
+    }
+
+    .users-responsive {
+        display: block;
+        width: 80%;
+        height: 900px;
+        margin: auto;
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .user-block {
+        width: 100%;
+    }
+
+    .txt {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 415px) {
+    .container {
+        width: 100%;
+        height: 1050px;
+        background-position: center;
+    }
+
+    .for-logo {
+        height: 100px;
+        padding: 20px 0px 0px 35px;
+    }
+
+    .logo {
+        width: 32%;
+        background-image: url("./images/logo-for-responsive.svg");
+        background-size: 150px 50px;
+    }
+
+    .first-section {
+        height: 950px;
+        display: block;
+    }
+
+    .texts-block {
+        width: 100%;
+        height: 450px;
+        padding: 10px;
+        display: block;
+    }
+
+    #h1txt {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    #h1span {
+        font-size: 70px;
+    }
+
+    #text2 {
+        font-size: 18px;
+    }
+
+    .download {
+        width: 50%;
+        font-size: 17px;
+    }
+
+    .image-block {
+        width: 100%;
+        height: 450px;
+    }
+
+    .second-section {
+        height: 2100px;
+    }
+
+    .second-section-first-block {
+        width: 100%;
+        height: 650px;
+        padding: 10px;
+        padding-top: 50px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .second-section-image {
+        width: 90%;
+        height: 250px;
+    }
+
+    .second-section-text-block {
+        width: 90%;
+        height: 250px;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    #firsttxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondtxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondsectiontext2  {
+        font-size: 13px;
+    }
+
+    .secimg {
+        margin-top: 20px;
+    }
+
+    .second-section-second-block {
+        height: 750px;
+    }
+
+    .third-section {
+        height: 1600px;
+    }
+
+    .part1txt {
+        height: 150px;
+        line-height: 50px;
+    }
+
+    #reviews {
+        font-size: 25px;
+    }
+
+    #what-do-they-say {
+        font-size: 40px;
+        font-weight: 600;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    .status-block {
+        width: 100%;
+        height: 1300px;
+        display: block;
+    }
+
+    .status {
+        width: 100%;
+        height: 570px;
+        display: block;
+    }
+
+    .some-status {
+        width: 100%;
+        height: 430px;
+        padding: 0;
+    }
+
+    #easy-to-use {
+        font-size: 20px;
+    }
+
+    #statustxt {
+        font-size: 19px;
+    }
+
+    .second-status {
+        height: 550px;
+        margin-top: 150px;
+    }
+
+    .fourth-section {
+        display: none;
+    }
+
+    .users {
+        display: none;
+    }
+
+    .fourth-section-responsive {
+        display: block;
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(22, 22, 22);
+    }
+
+    .users-responsive {
+        display: block;
+        width: 75%;
+        height: 900px;
+        margin: auto;
+        opacity: 0;
+        transition: 1s;
+    }
+}
+
+@media (min-width: 415px) and (max-width: 426px) {
+    .container {
+        width: 100%;
+        height: 1050px;
+        background-position: center;
+    }
+
+    .for-logo {
+        height: 100px;
+        padding: 20px 0px 0px 35px;
+    }
+
+    .logo {
+        width: 30%;
+        background-image: url("./images/logo-for-responsive.svg");
+        background-size: 150px 50px;
+    }
+
+    .first-section {
+        height: 900px;
+        display: block;
+    }
+
+    .texts-block {
+        width: 100%;
+        height: 450px;
+        padding: 10px;
+        display: block;
+    }
+
+    #h1txt {
+        font-size: 65px;
+        line-height: 70px;
+    }
+
+    #h1span {
+        font-size: 70px;
+    }
+
+    #text2 {
+        font-size: 18px;
+    }
+
+    .download {
+        width: 50%;
+        font-size: 17px;
+    }
+
+    .image-block {
+        width: 100%;
+        height: 450px;
+    }
+
+    .second-section {
+        height: 2100px;
+        margin-top: 50px;
+    }
+
+    .second-section-first-block {
+        width: 100%;
+        height: 650px;
+        padding: 10px;
+        padding-top: 50px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .second-section-image {
+        width: 90%;
+        height: 250px;
+    }
+
+    .second-section-text-block {
+        width: 90%;
+        height: 250px;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    #firsttxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondtxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondsectiontext2  {
+        font-size: 13px;
+    }
+
+    .secimg {
+        margin-top: 20px;
+    }
+
+    .second-section-second-block {
+        height: 750px;
+    }
+
+    .third-section {
+        height: 1600px;
+    }
+
+    #reviews {
+        font-size: 25px;
+    }
+
+    #what-do-they-say {
+        font-size: 35px;
+        font-weight: 600;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    .status-block {
+        width: 100%;
+        height: 1300px;
+        display: block;
+    }
+
+    .status {
+        width: 100%;
+        height: 570px;
+        display: block;
+    }
+
+    .some-status {
+        width: 100%;
+        height: 430px;
+        padding: 0;
+    }
+
+    #easy-to-use {
+        font-size: 20px;
+    }
+
+    #statustxt {
+        font-size: 18px;
+    }
+
+    .second-status {
+        height: 550px;
+        margin-top: 150px;
+    }
+
+    .fourth-section {
+        display: none;
+    }
+
+    .users {
+        display: none;
+    }
+
+    .fourth-section-responsive {
+        display: block;
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(22, 22, 22);
+    }
+
+    .users-responsive {
+        display: block;
+        width: 80%;
+        height: 900px;
+        margin: auto;
+        opacity: 0;
+    }
+
+    .userBlock {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (min-width: 426px) and (max-width: 541px) {
+    .container {
+        width: 100%;
+        height: 1050px;
+        background-position: center;
+    }
+
+    .for-logo {
+        width: 90%;
+        height: 100px;
+        padding: 20px 0px 0px 40px;
+    }
+
+    .logo {
+        width: 30%;
+        background-image: url("./images/logo-for-responsive.svg");
+        background-size: 150px 50px;
+    }
+
+    .first-section {
+        height: 950px;
+        display: block;
+    }
+
+    .texts-block {
+        width: 80%;
+        height: 450px;
+        padding: 10px;
+        display: block;
+    }
+
+    #h1txt {
+        font-size: 65px;
+        line-height: 70px;
+    }
+
+    #h1span {
+        font-size: 70px;
+    }
+
+    #text2 {
+        font-size: 18px;
+    }
+
+    .download {
+        width: 50%;
+        font-size: 17px;
+    }
+
+    .image-block {
+        width: 80%;
+        height: 400px;
+    }
+
+    .second-section {
+        height: 2300px;
+    }
+
+    .second-section-first-block {
+        width: 100%;
+        height: 750px;
+        padding: 10px;
+        padding-top: 50px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .second-section-image {
+        width: 70%;
+        height: 250px;
+    }
+
+    .second-section-text-block {
+        width: 60%;
+        height: 250px;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    #firsttxt {
+        margin-top: 20px;
+        font-size: 45px;
+    }
+
+    #secondtxt {
+        margin-top: 20px;
+        font-size: 45px;
+    }
+
+    #secondsextiontext2 {
+        font-size: 13px;
+    }
+
+    .secimg {
+        margin-top: 150px;
+    }
+
+    .second-section-second-block {
+        height: 850px;
+    }
+
+    .second-section-third-block {
+        height: 600px;
+    }
+
+    .third-section {
+        height: 1600px;
+    }
+
+    #what-do-they-say {
+        font-size: 40px;
+        font-weight: 600;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    .status-block {
+        width: 75%;
+        height: 1400px;
+        display: block;
+    }
+
+    .status {
+        height: 550px;
+        width: 100%;
+        display: block;
+    }
+
+    .avatar {
+        width: 100px;
+        height: 100px;
+    }
+
+    .some-status {
+        width: 100%;
+        height: 430px;
+        padding: 0;
+    }
+
+    .second-status {
+        height: 550px;
+        margin-top: 150px;
+    }
+
+    #easy-to-use {
+        font-size: 23px;
+    }
+
+    #statustxt {
+        font-size: 17px;
+    }
+
+    .fourth-section {
+        display: none;
+    }
+
+    .users {
+        display: none;
+    }
+
+    .fourth-section-responsive {
+        display: block;
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(22, 22, 22);
+    }
+
+    .users-responsive {
+        display: block;
+        width: 80%;
+        height: 900px;
+        margin: auto;
+        opacity: 0;
+    }
+
+    .userBlock {
+        width: 100%;
+    }
+
+}
+
+@media (min-width: 541px) and (max-width: 769px) {
+    .container {
+        width: 101%;
+        height: 1059px;
+        background-position: center;
+    }
+
+    .for-logo {
+        height: 100px;
+        padding: 20px 0px 0px 190px;
+    }
+
+    .first-section {
+        height: 960px;
+        display: block;
+    }
+
+    .texts-block {
+        width: 60%;
+        height: 450px;
+        padding: 10px;
+        margin: auto;
+    }
+
+    #h1txt {
+        font-size: 70px;
+        line-height: 75px;
+    }
+
+    #h1span {
+        font-size: 70px;
+    }
+
+    #text2 {
+        font-size: 20px;
+    }
+
+    .image-block {
+        width: 60%;
+        height: 450px;
+        padding-top: 10px;
+        margin: auto;
+    }
+
+    .second-section {
+        height: 2300px;
+    }
+
+    .second-section-first-block {
+        width: 100%;
+        height: 650px;
+        padding: 10px;
+        padding-top: 50px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .second-section-image {
+        width: 55%;
+        height: 300px;
+        margin: auto;
+    }
+
+    .second-section-text-block {
+        width: 50%;
+        height: 250px;
+        margin: auto;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    #firsttxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondtxt {
+        margin-top: 20px;
+        font-size: 35px;
+    }
+
+    #secondsectiontext2  {
+        font-size: 12px;
+    }
+
+    .secimg {
+        margin-top: 20px;
+    }
+
+    .second-section-second-block {
+        height: 850px;
+    }
+
+    .second-section-third-block {
+        height: 600px;
+    }
+
+    .third-section {
+        height: 1500px;
+    }
+
+    #what-do-they-say {
+        font-size: 40px;
+        font-weight: 600;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    .status-block {
+        width: 75%;
+        height: 1300px;
+        display: block;
+        margin: auto;
+    }
+
+    .status {
+        height: 550px;
+        width: 100%;
+        display: block;
+    }
+
+    .avatar {
+        width: 100px;
+        height: 100px;
+    }
+
+    .some-status {
+        width: 100%;
+        height: 430px;
+        padding: 0;
+    }
+
+    .second-status {
+        height: 500px;
+        margin-top: 150px;
+    }
+
+    #easy-to-use {
+        font-size: 23px;
+    }
+
+    #statustxt {
+        font-size: 17px;
+    }
+
+    .fourth-section {
+        display: none;
+    }
+
+    .users {
+        display: none;
+    }
+
+    .fourth-section-responsive {
+        display: block;
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(22, 22, 22);
+    }
+
+    .users-responsive {
+        display: block;
+        padding-left: 150px;
+        width: 75%;
+        height: 300px;
+        margin: auto;
+        opacity: 0;
+        transition: 1s;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 822px) {
+    .container {
+        width: 101%;
+        height: 1060px;
+        background-position: center;
+    }
+
+    .for-logo {
+        height: 100px;
+        padding: 20px 0px 0px 240px;
+    }
+
+    .first-section {
+        height: 960px;
+        display: block;
+    }
+
+    .texts-block {
+        width: 50%;
+        height: 450px;
+        padding: 10px;
+        margin: auto;
+    }
+
+    #h1txt {
+        font-size: 70px;
+        line-height: 80px;
+    }
+
+    #h1span {
+        font-size: 70px;
+    }
+
+    #text2 {
+        font-size: 20px;
+    }
+
+    .image-block {
+        width: 60%;
+        height: 450px;
+        padding-top: 10px;
+        margin: auto;
+    }
+
+    .second-section {
+        height: 2300px;
+    }
+
+    .second-section-first-block {
+        width: 100%;
+        height: 650px;
+        padding: 10px;
+        padding-top: 50px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .second-section-image {
+        width: 55%;
+        height: 300px;
+        margin: auto;
+    }
+
+    .second-section-text-block {
+        width: 50%;
+        height: 250px;
+        margin: auto;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    #firsttxt {
+        margin-top: 20px;
+        font-size: 40px;
+    }
+
+    #secondtxt {
+        margin-top: 20px;
+        font-size: 40px;
+    }
+
+    #secondsectiontext2  {
+        font-size: 13px;
+    }
+
+    .secimg {
+        margin-top: 20px;
+    }
+
+    .second-section-second-block {
+        height: 850px;
+    }
+
+    .second-section-third-block {
+        height: 600px;
+    }
+
+    .third-section {
+        height: 1500px;
+    }
+
+    .part1txt {
+        line-height: 50px;
+    }
+
+    #reviews {
+        font-size: 25px;
+    }
+
+    #what-do-they-say {
+        font-size: 40px;
+        font-weight: 600;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    .status-block {
+        width: 70%;
+        height: 1300px;
+        display: block;
+        margin: auto;
+    }
+
+    .status {
+        height: 550px;
+        width: 100%;
+        display: block;
+    }
+
+    .avatar {
+        width: 100px;
+        height: 100px;
+    }
+
+    .some-status {
+        width: 100%;
+        height: 420px;
+        padding: 0;
+    }
+
+    #easy-to-use {
+        font-size: 23px;
+    }
+
+    .second-status {
+        height: 500px;
+        margin-top: 150px;
+    }
+
+    #statustxt {
+        font-size: 20px;
+    }
+
+    .fourth-section {
+        display: none;
+    }
+
+    .users {
+        display: none;
+    }
+
+    .fourth-section-responsive {
+        display: block;
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(22, 22, 22);
+    }
+
+    .users-responsive {
+        display: block;
+        width: 80%;
+        height: 900px;
+        margin: auto;
+        opacity: 0;
+    }
+
+    .userBlock {
+        width: 100%;
+    }
+
+}
+
+@media (min-width: 822px) and (max-width: 913px) {
+    .container {
+        width: 101%;
+        height: 1060px;
+        background-position: center;
+    }
+
+    .for-logo {
+        height: 100px;
+        padding: 20px 0px 0px 240px;
+    }
+
+    .first-section {
+        height: 960px;
+        display: block;
+    }
+
+    .texts-block {
+        width: 50%;
+        height: 450px;
+        padding: 10px;
+        margin: auto;
+    }
+
+    #h1txt {
+        font-size: 70px;
+        line-height: 80px;
+    }
+
+    #h1span {
+        font-size: 70px;
+    }
+
+    #text2 {
+        font-size: 20px;
+    }
+
+    .image-block {
+        width: 60%;
+        height: 480px;
+        padding-top: 10px;
+        margin: auto;
+    }
+
+    .second-section {
+        height: 2300px;
+    }
+
+    .second-section-first-block {
+        width: 100%;
+        height: 650px;
+        padding: 10px;
+        padding-top: 50px;
+        display: block;
+        overflow: hidden;
+    }
+
+    .second-section-image {
+        width: 55%;
+        height: 300px;
+        margin: auto;
+    }
+
+    .second-section-text-block {
+        width: 50%;
+        height: 250px;
+        margin: auto;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    #firsttxt {
+        margin-top: 20px;
+        font-size: 40px;
+    }
+
+    #secondtxt {
+        margin-top: 20px;
+        font-size: 40px;
+    }
+
+    #secondsectiontext2  {
+        font-size: 14px;
+    }
+
+    .secimg {
+        margin-top: 20px;
+    }
+
+    .second-section-second-block {
+        height: 850px;
+    }
+
+    .second-section-third-block {
+        height: 600px;
+    }
+
+    .third-section {
+        height: 1500px;
+    }
+
+    #what-do-they-say {
+        font-size: 40px;
+        font-weight: 600;
+        font-family: 'Rubik', sans-serif;
+    }
+
+    .status-block {
+        width: 70%;
+        height: 1300px;
+        display: block;
+        margin: auto;
+    }
+
+    .status {
+        height: 550px;
+        width: 100%;
+        display: block;
+    }
+
+    .avatar {
+        width: 100px;
+        height: 100px;
+    }
+
+    .some-status {
+        width: 100%;
+        height: 430px;
+        padding: 0;
+    }
+
+    .second-status {
+        height: 500px;
+        margin-top: 150px;
+    }
+
+    #easy-to-use {
+        font-size: 23px;
+    }
+
+    #statustxt {
+        font-size: 20px;
+    }
+
+    .fourth-section {
+        display: none;
+    }
+
+    .users {
+        display: none;
+    }
+
+    .fourth-section-responsive {
+        display: block;
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(22, 22, 22);
+    }
+
+    .users-responsive {
+        display: block;
+        width: 80%;
+        height: 900px;
+        margin: auto;
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .userBlock {
+        width: 100%;
+    }
+}
+
+@media (min-width: 913px) and (max-width: 1025px) {
+    .image-block {
+        width: 500px;
+    }
+
+    .second-section-first-block {
+        padding-top: 150px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .second-section-image {
+        width: 50%;
+        height: 300px;
+        border-radius: 5%;
+        overflow: hidden;
+    }
+
+    .second-section-text-block {
+        width: 50%;
+        padding-left: 50px;
+        padding-top: 30px
+    }
+
+    .second-section-second-block {
+        padding-top: 110px;
+        height: 550px;
+    }
+
+    .ssc {
+        margin-left: -70px;
+    }
+
+    .some-status {
+        width: 100%;
+    }
+
+    .users {
+        width: 90%;
+    }
+}
