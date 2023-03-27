@@ -174,6 +174,61 @@
     .txt {
         font-size: 20px
     }
+        
+    .fiveth-section {
+        display: none;
+    }
+
+    .fiveth-section-responsive {
+        width: 100%;
+        background-image: url("https://assets.zyrosite.com/blickpkok4/gradient2-A1aNg8Lg5NTlR0e3.svg");
+        height: 650px;
+        display: block;
+    }
+
+    .fivethSectionBlockResponsive {
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .fiveth-section-block {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .fiveth-section-text-block {
+        width: 100%;
+        height: 300px;
+        padding-left: 0;
+        padding-top: 30px;
+        padding: 20px;
+    }
+
+    .title1 {
+        font-size: 30px;
+        margin: 0;
+    }
+
+    #some-text {
+        font-size: 12px;
+        width: 100%;
+    }
+
+    .button-block {
+        width: 100%;
+    }
+
+    .get {
+        width: 45%;
+        height: 40px;
+    }
+
+    .fiveth-section-image-block {
+        width: 100%;
+        padding: 60px;
+    }
 
 }
 
@@ -352,6 +407,59 @@
 
     .userBlock {
         width: 100%;
+    }
+    
+    .fiveth-section {
+        display: none;
+    }
+
+    .fiveth-section-responsive {
+        width: 100%;
+        background-image: url("https://assets.zyrosite.com/blickpkok4/gradient2-A1aNg8Lg5NTlR0e3.svg");
+        height: 850px;
+        display: block;
+    }
+
+    .fivethSectionBlockResponsive {
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .fiveth-section-block {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .fiveth-section-text-block {
+        width: 100%;
+        padding-left: 0;
+        padding-top: 30px;
+        padding: 20px;
+    }
+
+    .title1 {
+        font-size: 40px;
+        margin: 0;
+    }
+
+    #some-text {
+        font-size: 13px;
+        width: 100%;
+    }
+
+    .button-block {
+        width: 100%;
+    }
+
+    .get {
+        width: 40%;
+    }
+
+    .fiveth-section-image-block {
+        width: 100%;
+        padding: 80px;
     }
 }
 
@@ -532,6 +640,59 @@
     .txt {
         font-size: 25px;
     }
+
+    .fiveth-section {
+        display: none;
+    }
+
+    .fiveth-section-responsive {
+        width: 100%;
+        background-image: url("https://assets.zyrosite.com/blickpkok4/gradient2-A1aNg8Lg5NTlR0e3.svg");
+        height: 850px;
+        display: block;
+    }
+
+    .fivethSectionBlockResponsive {
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .fiveth-section-block {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .fiveth-section-text-block {
+        width: 100%;
+        padding-left: 0;
+        padding-top: 30px;
+        padding: 20px;
+    }
+
+    .title1 {
+        font-size: 40px;
+        margin: 0;
+    }
+
+    #some-text {
+        font-size: 13px;
+        width: 100%;
+    }
+
+    .button-block {
+        width: 100%;
+    }
+
+    .get {
+        width: 40%;
+    }
+
+    .fiveth-section-image-block {
+        width: 100%;
+        padding: 80px;
+    }
 }
 
 @media (min-width: 376px) and (max-width: 415px) {
@@ -707,6 +868,59 @@
         opacity: 0;
         transition: 1s;
     }
+    .fiveth-section {
+        display: none;
+    }
+
+    .fiveth-section-responsive {
+        width: 100%;
+        background-image: url("https://assets.zyrosite.com/blickpkok4/gradient2-A1aNg8Lg5NTlR0e3.svg");
+        height: 850px;
+        display: block;
+    }
+
+    .fivethSectionBlockResponsive {
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .fiveth-section-block {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .fiveth-section-text-block {
+        width: 100%;
+        padding-left: 0;
+        padding-top: 30px;
+        padding: 20px;
+    }
+
+    .title1 {
+        font-size: 40px;
+        margin: 0;
+    }
+
+    #some-text {
+        font-size: 13px;
+        width: 100%;
+    }
+
+    .button-block {
+        width: 100%;
+    }
+
+    .get {
+        width: 40%;
+    }
+
+    .fiveth-section-image-block {
+        width: 100%;
+        padding: 80px;
+    }
+
 }
 
 @media (min-width: 415px) and (max-width: 426px) {
@@ -881,6 +1095,59 @@
     .userBlock {
         width: 100%;
         text-align: center;
+    }
+
+    .fiveth-section {
+        display: none;
+    }
+
+    .fiveth-section-responsive {
+        width: 100%;
+        background-image: url("https://assets.zyrosite.com/blickpkok4/gradient2-A1aNg8Lg5NTlR0e3.svg");
+        height: 850px;
+        display: block;
+    }
+
+    .fivethSectionBlockResponsive {
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .fiveth-section-block {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .fiveth-section-text-block {
+        width: 100%;
+        padding-left: 0;
+        padding-top: 30px;
+        padding: 20px;
+    }
+
+    .title1 {
+        font-size: 40px;
+        margin: 0;
+    }
+
+    #some-text {
+        font-size: 13px;
+        width: 100%;
+    }
+
+    .button-block {
+        width: 100%;
+    }
+
+    .get {
+        width: 40%;
+    }
+
+    .fiveth-section-image-block {
+        width: 100%;
+        padding: 80px;
     }
 }
 
@@ -1062,6 +1329,65 @@
         width: 100%;
     }
 
+    .fiveth-section {
+        display: none;
+    }
+
+    .fiveth-section-responsive {
+        width: 100%;
+        background-image: url("https://assets.zyrosite.com/blickpkok4/gradient2-A1aNg8Lg5NTlR0e3.svg");
+        height: 830px;
+        display: block;
+    }
+
+    .fivethSectionBlockResponsive {
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .fiveth-section-block {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .fiveth-section-text-block {
+        width: 70%;
+        height: 380px;
+        padding: 30px;
+        margin: auto;
+    }
+
+    .fiveth-section-image-block {
+        width: 60%;
+        height: 450px;
+        padding: 20px;
+        margin: auto;
+    }
+
+    .fiveth-section-image-block > img {
+        width: 100%;
+    }
+
+    .title1 {
+        font-size: 45px;
+        margin: 0;
+    }
+
+    #some-text {
+        font-size: 15px;
+        width: 100%;
+    }
+
+    .button-block {
+        width: 100%;
+    }
+
+    .get {
+        width: 40%;
+    }
+
 }
 
 @media (min-width: 541px) and (max-width: 769px) {
@@ -1231,6 +1557,60 @@
         margin: auto;
         opacity: 0;
         transition: 1s;
+    }
+
+    .fiveth-section {
+        display: none;
+    }
+
+    .fiveth-section-responsive {
+        width: 100%;
+        background-image: url("https://assets.zyrosite.com/blickpkok4/gradient2-A1aNg8Lg5NTlR0e3.svg");
+        height: 850px;
+        display: block;
+    }
+
+    .fivethSectionBlockResponsive {
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .fiveth-section-block {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .fiveth-section-text-block {
+        width: 55%;
+        height: 380px;
+        padding: 30px;
+        margin: auto;
+    }
+
+    .fiveth-section-image-block {
+        height: 450px;
+        margin: auto;
+    }
+
+    .title1 {
+        font-size: 55px;
+        margin: 0;
+    }
+
+    #some-text {
+        font-size: 18px;
+        width: 100%;
+    }
+
+    .button-block {
+        width: 100%;
+    }
+
+    .get {
+        width: 40%;
+        font-size: 20px;
     }
 }
 
@@ -1407,10 +1787,66 @@
         height: 900px;
         margin: auto;
         opacity: 0;
+        transition: 1s;
     }
 
     .userBlock {
         width: 100%;
+    }
+
+    
+    .fiveth-section {
+        display: none;
+    }
+
+    .fiveth-section-responsive {
+        width: 100%;
+        background-image: url("https://assets.zyrosite.com/blickpkok4/gradient2-A1aNg8Lg5NTlR0e3.svg");
+        height: 850px;
+        display: block;
+    }
+
+    .fivethSectionBlockResponsive {
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .fiveth-section-block {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .fiveth-section-text-block {
+        width: 55%;
+        height: 380px;
+        padding: 30px;
+        margin: auto;
+    }
+
+    .fiveth-section-image-block {
+        height: 450px;
+        margin: auto;
+    }
+
+    .title1 {
+        font-size: 55px;
+        margin: 0;
+    }
+
+    #some-text {
+        font-size: 18px;
+        width: 100%;
+    }
+
+    .button-block {
+        width: 90%;
+    }
+
+    .get {
+        width: 40%;
+        font-size: 20px;
     }
 
 }
@@ -1586,6 +2022,61 @@
     .userBlock {
         width: 100%;
     }
+
+    .fiveth-section {
+        display: none;
+    }
+
+    .fiveth-section-responsive {
+        width: 100%;
+        background-image: url("https://assets.zyrosite.com/blickpkok4/gradient2-A1aNg8Lg5NTlR0e3.svg");
+        height: 830px;
+        display: block;
+    }
+
+    .fivethSectionBlockResponsive {
+        opacity: 0;
+        transition: 1s;
+    }
+
+    .fiveth-section-block {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .fiveth-section-text-block {
+        width: 55%;
+        height: 380px;
+        padding: 30px;
+        margin: auto;
+    }
+
+    .fiveth-section-image-block {
+        height: 450px;
+        padding-top: 30px;
+        margin: auto;
+    }
+
+    .title1 {
+        font-size: 55px;
+        margin: 0;
+    }
+
+    #some-text {
+        font-size: 18px;
+        width: 100%;
+    }
+
+    .button-block {
+        width: 90%;
+    }
+
+    .get {
+        width: 40%;
+        font-size: 20px;
+    }
 }
 
 @media (min-width: 913px) and (max-width: 1025px) {
@@ -1627,5 +2118,24 @@
 
     .users {
         width: 90%;
+    }
+
+    .fiveth-section {
+        height: 510px;
+    }
+
+    .fiveth-section-text-block {
+        padding-top: 120px;
+    }
+
+    
+    .title1 {
+        font-size: 40px;
+        margin: 0;
+    }
+
+    #some-text {
+        font-size: 18px;
+        width: 100%;
     }
 }
