@@ -132,3 +132,25 @@ document.addEventListener("scroll", (evt) => {
         scroll5050 = false;
     }
 })
+
+const instagram = document.querySelector(".instagram");
+const messenger = document.querySelector(".messenger");
+const facebook = document.querySelector(".facebook");
+const twitter = document.querySelector(".twitter");
+
+instagram.addEventListener("click", (evt) => {
+    window.location.href = "https://www.instagram.com/sahakiiiannnnn/";
+});
+
+messenger.addEventListener("click", (evt) => {
+    window.location.href = "https://www.messenger.com/";
+});
+
+facebook.addEventListener("click", (evt) => {
+    window.location.href = "https://www.facebook.com/profile.php?id=100090614104227";
+});
+
+
+twitter.addEventListener("click", (evt) => {
+    window.location.href = "https://twitter.com/home";
+});

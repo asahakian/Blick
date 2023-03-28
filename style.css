@@ -408,3 +408,88 @@ main {
 #app-store {
     background-color: rgb(224, 53, 132);
 }
+
+.end {
+    width: 100%;
+    height: 370px;
+    padding: 50px;
+    display: flex;  
+}
+
+.content {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+}
+
+.content > .for-logo {
+    width: 60%;
+    height: 60px;
+    padding: 0;
+}
+
+.content > .for-logo > .logo {
+    background-image: url("https://assets.zyrosite.com/blickpkok4/logo_black-AE0xqKEXpLtVQXnM.svg");
+}
+
+#content-text {
+    font-family: 'Poppins', sans-serif;
+    height: 30px;
+}
+
+#privacy {
+    font-size: 13px;
+    text-decoration: underline;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+
+.icons-block {
+    width: 50%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons-block > svg {
+    cursor: pointer;
+}
+
+.input-block {
+    width: 50%;
+    height: 300px;
+    margin-left: 50px;
+    padding: 50px;
+}
+
+.input-block > h3 {
+    height: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.input-block > span {
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+    color: #1a1a1a;
+}
+
+.type {
+    width: 100%;
+    height: 40px;
+    margin: 10px 0px 0px 0px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: none;
+    outline: none;
+}
+
+.submit {
+    width: 130px;
+    height: 40px;
+    background-color: rgb(93, 27, 166);
+    margin-top: 20px;
+    border-radius: 3rem;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
