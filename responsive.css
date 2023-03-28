@@ -257,7 +257,8 @@
     
     #content-text {
         font-family: 'Poppins', sans-serif;
-        height: 35px;
+        font-size: 14px;
+        height: 30px;
     }
     
     #privacy {
